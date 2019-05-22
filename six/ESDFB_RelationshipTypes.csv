@@ -1,0 +1,64 @@
+SDFB Relationship Type ID,Relationship Type Name
+11,Pupil/Student of
+3,Acquaintance of
+1,Enemy of
+5,Knew in passing
+7,Friend of
+13,Aunt/Uncle of
+15,Niece/Nephew of
+16,Child-in-law of
+20,Parent-in-law of
+18,Heir(ess) of
+25,Child of
+27,Grandchild of
+28,Grandparent of
+33,Godsibling of
+34,Client of
+35,Collaborated with
+40,Employed by
+41,Employer of
+45,Engaged to
+48,Priest of
+50,Lived with
+105,Step-sibling of
+32,Godparent of
+31,Godchild of
+2,Rival of
+4,Met
+6,Close friend of
+9,Had child with
+12,Mentor/Teacher of
+10,Sexual partner of
+14,Cousin of
+21,Sibling-in-law of
+19,Other-in-law of
+22,Testator to
+17,Guardian of
+24,Great-grandparent of
+26,Great-grandchild of
+29,Parent of
+30,Sibling of
+38,Patron of
+36,Colleague of
+37,Coworker of
+39,Apprentice of
+42,Master of
+43,Rented from
+44,Rented to
+46,Spouse of
+47,Parishoner of
+59,Admired by
+49,Other religious relationship
+103,Step-parent of
+51,Neighbor of
+104,Step-child of
+8,Attracted to
+23,Ward of
+107,Debtor of
+106,Creditor of
+109,Correspondent of 
+111,Had as midwife
+110,Midwife for
+113,Attended by
+112,Attendant of
+108,Schoolmate of
